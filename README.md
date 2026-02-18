@@ -98,7 +98,7 @@ ansible-playbook playbook.yml
 ## Screenshots
 
 VM 1:
-![](screenshot1.png)
+![](attachments/screenshot1.png)
 
 VM 2:
-![](screenshot2.png)
+![](attachements/screenshot2.png)
