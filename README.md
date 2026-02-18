@@ -101,4 +101,4 @@ VM 1:
 ![](attachments/screenshot1.png)
 
 VM 2:
-![](attachements/screenshot2.png)
+![](attachments/screenshot2.png)
